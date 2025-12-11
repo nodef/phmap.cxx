@@ -1,0 +1,29 @@
+{
+  "name": "phmap.cxx",
+  "version": "2.0.0",
+  "description": "A family of header-only, very fast and memory-friendly hashmap and btree containers; Gregory Popovitch (2019).",
+  "keywords": [
+    "cxx",
+    "library",
+    "header-only",
+    "parallel",
+    "hashmap",
+    "hashmap",
+    "btree",
+    "concurrent"
+  ],
+  "homepage": "https://github.com/nodef/phmap.cxx#readme",
+  "bugs": {
+    "url": "https://github.com/nodef/phmap.cxx/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodef/phmap.cxx.git"
+  },
+  "license": "Apache-2.0",
+  "author": "wolfram77@gmail.com",
+  "main": "phmap.h",
+  "scripts": {
+    "test": "exit"
+  }
+}
